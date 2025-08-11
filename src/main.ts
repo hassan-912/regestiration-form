@@ -17,10 +17,10 @@ interface GradeCenterMapping {
 
 // Grade to Center mapping
 const gradeCenterMapping: GradeCenterMapping = {
-    '1st prep': ['camprage'],
-    '2nd prep': ['camprage', 'heights'],
+    '1st prep': ['cambridge'],
+    '2nd prep': ['cambridge', 'heights'],
     '3rd prep': ['heights', '60'],
-    '1st sec': ['heights', '60'],
+    '1st sec': ['heights', '60', 'top academy'],
     '2nd sec': ['heights', '60']
 };
 
